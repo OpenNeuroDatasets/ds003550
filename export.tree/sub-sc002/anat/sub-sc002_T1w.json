@@ -1,0 +1,22 @@
+{
+  "ConversionSoftware": "dicm2nii.m 20190112",
+  "SeriesNumber": 3,
+  "ImageType": [
+    "PhilipsPAR",
+    "ImageMRSERIES",
+    "T1TFE"
+  ],
+  "AcquisitionDateTime": "20111007110911",
+  "RepetitionTime": 0.008054,
+  "PhaseEncodingDirection": "j-",
+  "EchoTime": 0.00368,
+  "EchoTimes": 0.00368,
+  "CardiacTriggerDelayTimes": 0,
+  "PatientPosition": "HFS",
+  "SliceThickness": 1,
+  "FlipAngle": 8,
+  "Manufacturer": "Philips",
+  "SoftwareVersion": "V4.2\\PAR",
+  "MRAcquisitionType": "3D",
+  "ScanningSequence": "T1TFE"
+}
